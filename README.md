@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/shadowwalker/next-pwa)
+
 # Zero Config [PWA](https://developers.google.com/web/progressive-web-apps/) Plugin for [Next.js](https://nextjs.org/)
 
 This plugin is powered by [workbox](https://developers.google.com/web/tools/workbox/) and other good stuff.
